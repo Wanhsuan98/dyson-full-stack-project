@@ -18,3 +18,7 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# dyson-full-stack-project" 
+### Landing Page
+![image](dyson_landing_page)
+### Login Page
+![image](dyson_login)
